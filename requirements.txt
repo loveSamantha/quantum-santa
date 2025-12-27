@@ -1,0 +1,9 @@
+streamlit==1.32.0
+numpy==1.26.4
+networkx==3.2.1
+folium==0.17.0
+streamlit-folium==0.18.0
+pandas==2.2.1
+geopy==2.4.1
+matplotlib==3.8.3
+scipy==1.11.4
